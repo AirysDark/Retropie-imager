@@ -1,3 +1,9 @@
+## RUN AS ROOT USER ##
+this is not mine. i take no credit.
+https://github.com/RetroPie/RetroPie-Setup.git
+
+have made some tweaks and modifications to the code.
+
 RetroPie-Setup
 ==============
 
